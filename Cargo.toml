@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+basic-toml = "0.1"
 deser-hjson = "2.2.1"
 json5 = "0.4"
 lazy_static = "1.4.0"
